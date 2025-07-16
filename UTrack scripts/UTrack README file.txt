@@ -1,6 +1,9 @@
 General note about scripts in this folder:
+"UTrack_combinedESM_functions_used_for_thesis.py" and "UTrack_combinedESM_loop_sims_used_for_thesis.py" were both used as the scripts for generating the files for the thesis results. These scripts are older versions that did not yet incorporate ERA5 possibilities and miss some of the newest efficiency and logic improvements. "UTrack_combinedESM_loop_sims_used_for_thesis.py" is basically a looped version of the older UTrack version which loops over all monthly simulations for each cluster in the thesis.
 
+It is advisable to start from the newest "UTrack_final.py" and "UTrack_functions_final.py" when starting new research. Any questions related to the codes can be sent to C. Lokkart.
 
+==============================
 UTrack Moisture Tracking Model
 ==============================
 
