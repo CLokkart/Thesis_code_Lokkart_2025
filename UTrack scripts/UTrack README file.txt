@@ -1,3 +1,6 @@
+General note about scripts in this folder:
+
+
 UTrack Moisture Tracking Model
 ==============================
 
